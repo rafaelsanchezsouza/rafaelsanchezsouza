@@ -1,8 +1,8 @@
 ### Hello there, my name is Rafael! 👋
 
-I work as Full Stack Developer because I love all the parts envolved in the process of building applications. I like to understand how each technology impacts the final product.
+MS in Mechatronics working as Full Stack Developer. I love all the parts envolved in the process of building applications: to understand how each technology impacts the final product and to be able to modulate that is drives me to go *full stack*!
 
-I understand that writing code is like writting a message, therefore I'm strongly guided by the principles of Clean Coding.
+Writing code for me is like writting a message, therefore I'm strongly guided by the principles of Clean Coding.
 
 ### I'm currently focused on learning
 - Xamarin and the .NET framework
