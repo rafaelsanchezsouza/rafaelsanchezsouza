@@ -13,7 +13,6 @@ Writing code for me is like writting a message, therefore I'm strongly guided by
 - React Native
 - Java
 - C
-- Python
 
 <!--
 **rafaelsanchezsouza/rafaelsanchezsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
