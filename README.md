@@ -3,6 +3,8 @@
 [![Gmail](https://img.shields.io/badge/-rafaelsanchezsouza@gmail.com-EEEEEE?style=for-the-badge&logo=gmail "rafaelsanchezsouza@gmail.com")](https://mail.google.com/mail/?view=cm&fs=1&to=rafaelsanchezsouza@gmail.com&su=Hello&body=Hello)
 ---
 
+![Java](https://img.shields.io/npm/v/iis.svg?logo=windows)
+
 ### Hello there, my name is Rafael! 👋
 
 MS in Mechatronics working as Full Stack Developer since January 2020  
@@ -11,7 +13,9 @@ I like to use my skills to develop practical solutions for society.
 When by myself, I work as "one man army", understanding and manipulating all the parts envolved in the process of building applications.  
 When in a team, I assume different roles as needed, aiming at being useful where there's lack of resources.  
 
-Strongly guided by the principles of Clean Coding, I understand writing code for me is like writting a message to other developers. 
+Passionate about learning, what I know is never an end, but a bootstrap to the what comes next!
+
+Strongly guided by the principles of Clean Coding, I understand writing code is the fundamental for of communication between developers.
 
 ### I'm currently focused on
 
@@ -41,7 +45,8 @@ Strongly guided by the principles of Clean Coding, I understand writing code for
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)  
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)  
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)  
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![IIS](https://img.shields.io/badge/microsoft_iis-8B8B8B.svg?style=for-the-badge&logo=microsoft&logoColor=white)  
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
