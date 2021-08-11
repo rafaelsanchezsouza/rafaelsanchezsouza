@@ -3,8 +3,6 @@
 [![Gmail](https://img.shields.io/badge/-rafaelsanchezsouza@gmail.com-EEEEEE?style=for-the-badge&logo=gmail "rafaelsanchezsouza@gmail.com")](https://mail.google.com/mail/?view=cm&fs=1&to=rafaelsanchezsouza@gmail.com&su=Hello&body=Hello)
 ---
 
-![Java](https://img.shields.io/npm/v/iis.svg?logo=windows)
-
 ### Hello there, my name is Rafael! 👋
 
 MS in Mechatronics working as Full Stack Developer since January 2020  
