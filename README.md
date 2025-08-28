@@ -1,5 +1,4 @@
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0a66c2?style=for-the-badge&logo=Linkedin "https://www.linkedin.com/in/ssraf/")](https://www.linkedin.com/in/ssraf/)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white "https://stackoverflow.com/story/ssraf")](https://stackoverflow.com/story/ssraf)
 [![Gmail](https://img.shields.io/badge/-rafaelsanchezsouza@gmail.com-EEEEEE?style=for-the-badge&logo=gmail "rafaelsanchezsouza@gmail.com")](https://mail.google.com/mail/?view=cm&fs=1&to=rafaelsanchezsouza@gmail.com&su=Hello&body=Hello)
 ---
 
